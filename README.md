@@ -1,4 +1,4 @@
-# MHetGL: Unsupervised Graph Anomaly Detection via Multi-Hypersphere Heterophilic Graph Learning
+# MHetGL
 
 ### Package Dependencies
 * torch 1.12.1
